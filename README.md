@@ -11,7 +11,7 @@ Aynı zamanda player objesinin görünümü için kullandığım hazır 4 farkl�
 Enemy: Player'ın doğrultusunda göre doğrultulanmakta ve o yöne doğru otomatik olarak hareket etmektedir.(bir nevi takip etmektedir.)
 Yine aynı şekilde Enemy objesinin de 4 adet sprite'ı ile uzay gemisinin animasyonu oluşturulmuştur.
 
-Oyun, Player objesinin tüm Enemy Objelerini yok etmesi amacı üzerine kuruldur. Bu amaç doğrulutsunuda Player'ın bir ader ışın kılcı vardır ve mouse sol click ile bu kılıç aktif hale gelmektedir.
+Oyun, Player objesinin tüm Enemy Objelerini yok etmesi amacı üzerine kuruldur. Bu amaç doğrulutsunuda Player'ın bir adet ışın kılcı vardır ve mouse sol click ile bu kılıç aktif hale gelmektedir.
 Işın kılıcının da soldan sağa doğru dönüş hareketi bir animasyon olarak yerine getirilmiştir. Burada ışın kılıcının soldan sağa savrulma animasyonunu farklı sprite'lardan ziyade animatör penceresinde elimden geldiğince kendim gerçekleştirmeye çalıştım.
 
 Işın kılıcı soldan sağa doğru olan hareketi boyunca temas ettiği Enemy objelerini yok etmekte ve bunun sonucunda yok oluşu belirtmek için bir patlama animasyonu da ekranda belirmektedir.
